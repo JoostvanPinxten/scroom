@@ -1,7 +1,7 @@
 var structMeasurement =
 [
     [ "Measurement", "structMeasurement.html#a2de40a20a28001cc62dd42990d36f97a", null ],
-    [ "Measurement", "structMeasurement.html#a4c89ee39b4c3e0afa4ad05203881e425", null ],
+    [ "Measurement", "structMeasurement.html#a1cb58f0c8b53f42c929a4e0a4cb1bd5c", null ],
     [ "endsAt", "structMeasurement.html#ab41224802bbe871f1d1cc8a4cd743780", null ],
     [ "height", "structMeasurement.html#a0c3d9f60804f49be2cdf71cd3c9a9388", null ],
     [ "length", "structMeasurement.html#a41f8cd8c79ab3a429cee2334dfcfb170", null ],

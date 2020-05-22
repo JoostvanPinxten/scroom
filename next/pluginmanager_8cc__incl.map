@@ -1,7 +1,7 @@
 <map id="gui/src/pluginmanager.cc" name="gui/src/pluginmanager.cc">
 <area shape="rect" id="node2" href="$pluginmanager_8hh.html" title="pluginmanager.hh" alt="" coords="1560,80,1699,107"/>
 <area shape="rect" id="node36" href="$plugininformationinterface_8hh.html" title="scroom/plugininformationinterface.hh" alt="" coords="45,155,313,181"/>
-<area shape="rect" id="node46" href="$callbacks_8hh.html" title="callbacks.hh" alt="" coords="2298,80,2401,107"/>
+<area shape="rect" id="node46" href="$callbacks_8hh.html" title="callbacks.hh" alt="" coords="2254,80,2357,107"/>
 <area shape="rect" id="node7" href="$scroomplugin_8hh.html" title="scroom/scroomplugin.hh" alt="" coords="389,155,572,181"/>
 <area shape="rect" id="node10" href="$scroominterface_8hh.html" title="scroom/scroominterface.hh" alt="" coords="1630,229,1830,256"/>
 <area shape="rect" id="node20" href="$utilities_8hh.html" title="scroom/utilities.hh" alt="" coords="1894,528,2037,555"/>

@@ -29,7 +29,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Scroom
-   &#160;<span id="projectnumber">0.10-4-gfdc8364</span>
+   &#160;<span id="projectnumber">0.10-60-g4141bc7</span>
    </div>
   </td>
  </tr>
@@ -211,7 +211,7 @@ Private Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="colormap-helpers_8cc_source.html#l00014">14</a> of file <a class="el" href="colormap-helpers_8cc_source.html">colormap-helpers.cc</a>.</p>
-<div class="fragment"><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;  : <a class="code" href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">colormap</a>(<a class="code" href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">colormap</a>), <a class="code" href="classColormapHelperBase.html#a554722edde464a6024011ddc9a2df8ce">originalColormap</a>(<a class="code" href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">colormap</a>)</div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;{</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;}</div><div class="ttc" id="classColormapHelperBase_html_a554722edde464a6024011ddc9a2df8ce"><div class="ttname"><a href="classColormapHelperBase.html#a554722edde464a6024011ddc9a2df8ce">ColormapHelperBase::originalColormap</a></div><div class="ttdeci">Colormap::Ptr originalColormap</div><div class="ttdef"><b>Definition:</b> <a href="colormappable_8hh_source.html#l00166">colormappable.hh:166</a></div></div>
+<div class="fragment"><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;  : <a class="code" href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">colormap</a>(colormap_), <a class="code" href="classColormapHelperBase.html#a554722edde464a6024011ddc9a2df8ce">originalColormap</a>(colormap_)</div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;{</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;}</div><div class="ttc" id="classColormapHelperBase_html_a554722edde464a6024011ddc9a2df8ce"><div class="ttname"><a href="classColormapHelperBase.html#a554722edde464a6024011ddc9a2df8ce">ColormapHelperBase::originalColormap</a></div><div class="ttdeci">Colormap::Ptr originalColormap</div><div class="ttdef"><b>Definition:</b> <a href="colormappable_8hh_source.html#l00166">colormappable.hh:166</a></div></div>
 <div class="ttc" id="classColormapHelperBase_html_ac21006fadbde96cbd58993ce0e05ca18"><div class="ttname"><a href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">ColormapHelperBase::colormap</a></div><div class="ttdeci">Colormap::Ptr colormap</div><div class="ttdef"><b>Definition:</b> <a href="colormappable_8hh_source.html#l00165">colormappable.hh:165</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -465,7 +465,7 @@ Private Member Functions</h2></td></tr>
 <p>Implements <a class="el" href="classColormappable.html#aa6e4b4bd6dbd16f0da2ba9177a12712a">Colormappable</a>.</p>
 
 <p class="definition">Definition at line <a class="el" href="colormap-helpers_8cc_source.html#l00019">19</a> of file <a class="el" href="colormap-helpers_8cc_source.html">colormap-helpers.cc</a>.</p>
-<div class="fragment"><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;{</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;  this-&gt;<a class="code" href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">colormap</a> = <a class="code" href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">colormap</a>;</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;}</div><div class="ttc" id="classColormapHelperBase_html_ac21006fadbde96cbd58993ce0e05ca18"><div class="ttname"><a href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">ColormapHelperBase::colormap</a></div><div class="ttdeci">Colormap::Ptr colormap</div><div class="ttdef"><b>Definition:</b> <a href="colormappable_8hh_source.html#l00165">colormappable.hh:165</a></div></div>
+<div class="fragment"><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;{</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;  this-&gt;<a class="code" href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">colormap</a> = colormap_;</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;}</div><div class="ttc" id="classColormapHelperBase_html_ac21006fadbde96cbd58993ce0e05ca18"><div class="ttname"><a href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">ColormapHelperBase::colormap</a></div><div class="ttdeci">Colormap::Ptr colormap</div><div class="ttdef"><b>Definition:</b> <a href="colormappable_8hh_source.html#l00165">colormappable.hh:165</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -528,8 +528,7 @@ Private Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="colormap-helpers_8cc_source.html#l00024">24</a> of file <a class="el" href="colormap-helpers_8cc_source.html">colormap-helpers.cc</a>.</p>
-<div class="fragment"><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;{</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;  this-&gt;<a class="code" href="classColormapHelperBase.html#a554722edde464a6024011ddc9a2df8ce">originalColormap</a> = <a class="code" href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">colormap</a>;</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;}</div><div class="ttc" id="classColormapHelperBase_html_a554722edde464a6024011ddc9a2df8ce"><div class="ttname"><a href="classColormapHelperBase.html#a554722edde464a6024011ddc9a2df8ce">ColormapHelperBase::originalColormap</a></div><div class="ttdeci">Colormap::Ptr originalColormap</div><div class="ttdef"><b>Definition:</b> <a href="colormappable_8hh_source.html#l00166">colormappable.hh:166</a></div></div>
-<div class="ttc" id="classColormapHelperBase_html_ac21006fadbde96cbd58993ce0e05ca18"><div class="ttname"><a href="classColormapHelperBase.html#ac21006fadbde96cbd58993ce0e05ca18">ColormapHelperBase::colormap</a></div><div class="ttdeci">Colormap::Ptr colormap</div><div class="ttdef"><b>Definition:</b> <a href="colormappable_8hh_source.html#l00165">colormappable.hh:165</a></div></div>
+<div class="fragment"><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;{</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;  this-&gt;<a class="code" href="classColormapHelperBase.html#a554722edde464a6024011ddc9a2df8ce">originalColormap</a> = colormap_;</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;}</div><div class="ttc" id="classColormapHelperBase_html_a554722edde464a6024011ddc9a2df8ce"><div class="ttname"><a href="classColormapHelperBase.html#a554722edde464a6024011ddc9a2df8ce">ColormapHelperBase::originalColormap</a></div><div class="ttdeci">Colormap::Ptr originalColormap</div><div class="ttdef"><b>Definition:</b> <a href="colormappable_8hh_source.html#l00166">colormappable.hh:166</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -580,7 +579,7 @@ Private Member Functions</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="colormappable_8hh_source.html#l00165">165</a> of file <a class="el" href="colormappable_8hh_source.html">colormappable.hh</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="colormap-helpers_8cc_source.html#l00065">getColormap()</a>, <a class="el" href="colormap-helpers_8cc_source.html#l00133">MonochromeColormapHelper::regenerateColormap()</a>, <a class="el" href="colormap-helpers_8cc_source.html#l00019">setColormap()</a>, and <a class="el" href="colormap-helpers_8cc_source.html#l00024">setOriginalColormap()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="colormap-helpers_8cc_source.html#l00065">getColormap()</a>, <a class="el" href="colormap-helpers_8cc_source.html#l00133">MonochromeColormapHelper::regenerateColormap()</a>, and <a class="el" href="colormap-helpers_8cc_source.html#l00019">setColormap()</a>.</p>
 
 </div>
 </div>
@@ -612,7 +611,7 @@ Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classColormapHelperBase.html">ColormapHelperBase</a></li>
-    <li class="footer">Generated on Tue May 19 2020 13:48:51 for Scroom by
+    <li class="footer">Generated on Fri May 22 2020 12:34:17 for Scroom by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

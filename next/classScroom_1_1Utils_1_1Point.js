@@ -1,7 +1,7 @@
 var classScroom_1_1Utils_1_1Point =
 [
     [ "value_type", "classScroom_1_1Utils_1_1Point.html#a928db7158000cbe261cca5ac58869b57", null ],
-    [ "Point", "classScroom_1_1Utils_1_1Point.html#aa24ca216325375a64ab787578b08b5ac", null ],
+    [ "Point", "classScroom_1_1Utils_1_1Point.html#a3895bd735a06d13718a39b3d96fcc0d8", null ],
     [ "Point", "classScroom_1_1Utils_1_1Point.html#a2875e9cb8b19a3cf92ec9d76b21c6471", null ],
     [ "magnitude", "classScroom_1_1Utils_1_1Point.html#adff07f0c17215b6804a9415fd7118df4", null ],
     [ "operator*=", "classScroom_1_1Utils_1_1Point.html#a9d0aa86651f6e1fb271b51c9c7d8eb6c", null ],

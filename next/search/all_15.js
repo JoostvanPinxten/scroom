@@ -5,7 +5,7 @@ var searchData=
   ['value',['value',['../classScroom_1_1Bookkeeping_1_1Detail_1_1ValueType.html#a88c2086f4865aa04f1d987e47ae6cdf6',1,'Scroom::Bookkeeping::Detail::ValueType']]],
   ['value_5ftype',['value_type',['../classScroom_1_1Utils_1_1Segment.html#adf1bd8bc9a4afe8a280378adef823cfc',1,'Scroom::Utils::Segment::value_type()'],['../classScroom_1_1Utils_1_1Point.html#a928db7158000cbe261cca5ac58869b57',1,'Scroom::Utils::Point::value_type()'],['../classScroom_1_1Utils_1_1Rectangle.html#ab0e781ff272a021d0c850b400c2bcbae',1,'Scroom::Utils::Rectangle::value_type()']]],
   ['values',['values',['../classScroom_1_1Bookkeeping_1_1MapBase.html#af53f87156861f71a05069d94d82dd224',1,'Scroom::Bookkeeping::MapBase']]],
-  ['valuetype',['ValueType',['../classScroom_1_1Bookkeeping_1_1Detail_1_1ValueType.html',1,'Scroom::Bookkeeping::Detail::ValueType&lt; V &gt;'],['../classScroom_1_1Bookkeeping_1_1Detail_1_1ValueType.html#aef8f81830fbd4ad7487fd18c0aff9dc7',1,'Scroom::Bookkeeping::Detail::ValueType::ValueType()']]],
+  ['valuetype',['ValueType',['../classScroom_1_1Bookkeeping_1_1Detail_1_1ValueType.html',1,'Scroom::Bookkeeping::Detail::ValueType&lt; V &gt;'],['../classScroom_1_1Bookkeeping_1_1Detail_1_1ValueType.html#a9808ebac4439161c69cab723a9ec5bc9',1,'Scroom::Bookkeeping::Detail::ValueType::ValueType()']]],
   ['verify',['verify',['../assertions_8hh.html#aecaddce56c58fa07fb91249ea5de89ae',1,'assertions.hh']]],
   ['vertically',['vertically',['../classScroom_1_1Utils_1_1Rectangle.html#a35c6f8b7d9d5f4ca27de0949da1493d6',1,'Scroom::Utils::Rectangle']]],
   ['vertilecount',['verTileCount',['../classLayer.html#a8f270463756cb7dc9897564b3bff23d4',1,'Layer::verTileCount()'],['../classDataFetcher.html#aaee3d602d5bfec28badc8c178041105c',1,'DataFetcher::verTileCount()']]],

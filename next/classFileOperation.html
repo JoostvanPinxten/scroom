@@ -29,7 +29,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Scroom
-   &#160;<span id="projectnumber">0.10-4-gfdc8364</span>
+   &#160;<span id="projectnumber">0.10-60-g4141bc7</span>
    </div>
   </td>
  </tr>
@@ -186,7 +186,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="tiled-bitmap_8cc_source.html#l00058">58</a> of file <a class="el" href="tiled-bitmap_8cc_source.html">tiled-bitmap.cc</a>.</p>
-<div class="fragment"><div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;  : <a class="code" href="classFileOperation.html#a2222304f0988cc425ccae90d64a782bd">progress</a>(<a class="code" href="classFileOperation.html#a2222304f0988cc425ccae90d64a782bd">progress</a>), <a class="code" href="classFileOperation.html#a07f8f52592dfe936f8eac90bb2a78259">waitingMutex</a>(), <a class="code" href="classFileOperation.html#af00314f9a1a2e07c59635a81090bcba9">waiting</a>(<span class="keyword">true</span>)</div><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;{</div><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;  <a class="code" href="classFileOperation.html#a2222304f0988cc425ccae90d64a782bd">progress</a>-&gt;setWaiting();</div><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;}</div><div class="ttc" id="classFileOperation_html_a07f8f52592dfe936f8eac90bb2a78259"><div class="ttname"><a href="classFileOperation.html#a07f8f52592dfe936f8eac90bb2a78259">FileOperation::waitingMutex</a></div><div class="ttdeci">boost::mutex waitingMutex</div><div class="ttdef"><b>Definition:</b> <a href="tiled-bitmap_8hh_source.html#l00035">tiled-bitmap.hh:35</a></div></div>
+<div class="fragment"><div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;  : <a class="code" href="classFileOperation.html#a2222304f0988cc425ccae90d64a782bd">progress</a>(progress_), <a class="code" href="classFileOperation.html#a07f8f52592dfe936f8eac90bb2a78259">waitingMutex</a>(), <a class="code" href="classFileOperation.html#af00314f9a1a2e07c59635a81090bcba9">waiting</a>(<span class="keyword">true</span>)</div><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;{</div><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;  progress_-&gt;setWaiting();</div><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;}</div><div class="ttc" id="classFileOperation_html_a07f8f52592dfe936f8eac90bb2a78259"><div class="ttname"><a href="classFileOperation.html#a07f8f52592dfe936f8eac90bb2a78259">FileOperation::waitingMutex</a></div><div class="ttdeci">boost::mutex waitingMutex</div><div class="ttdef"><b>Definition:</b> <a href="tiled-bitmap_8hh_source.html#l00035">tiled-bitmap.hh:35</a></div></div>
 <div class="ttc" id="classFileOperation_html_a2222304f0988cc425ccae90d64a782bd"><div class="ttname"><a href="classFileOperation.html#a2222304f0988cc425ccae90d64a782bd">FileOperation::progress</a></div><div class="ttdeci">ProgressInterface::Ptr progress</div><div class="ttdef"><b>Definition:</b> <a href="tiled-bitmap_8hh_source.html#l00034">tiled-bitmap.hh:34</a></div></div>
 <div class="ttc" id="classFileOperation_html_af00314f9a1a2e07c59635a81090bcba9"><div class="ttname"><a href="classFileOperation.html#af00314f9a1a2e07c59635a81090bcba9">FileOperation::waiting</a></div><div class="ttdeci">bool waiting</div><div class="ttdef"><b>Definition:</b> <a href="tiled-bitmap_8hh_source.html#l00036">tiled-bitmap.hh:36</a></div></div>
 </div><!-- fragment -->
@@ -428,7 +428,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classFileOperation.html">FileOperation</a></li>
-    <li class="footer">Generated on Tue May 19 2020 13:48:51 for Scroom by
+    <li class="footer">Generated on Fri May 22 2020 12:34:17 for Scroom by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

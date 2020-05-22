@@ -27,7 +27,7 @@ var searchData=
   ['tiffpresentation_2ecc',['tiffpresentation.cc',['../tiffpresentation_8cc.html',1,'']]],
   ['tiffpresentation_2ehh',['tiffpresentation.hh',['../tiffpresentation_8hh.html',1,'']]],
   ['tiffpresentationwrapper',['TiffPresentationWrapper',['../classTiffPresentationWrapper.html',1,'TiffPresentationWrapper'],['../classTiffPresentationWrapper.html#ae3911b66c2c98f30dc2a944cf07298d5',1,'TiffPresentationWrapper::TiffPresentationWrapper()']]],
-  ['tile',['Tile',['../classTile.html',1,'Tile'],['../classCompressedTile.html#a690dea215c3d52f42c35c7a7d242fc52',1,'CompressedTile::tile()'],['../classTileViewState.html#a6ed489ad4c3346c14fd15d3ff46924a4',1,'TileViewState::tile()'],['../classTile.html#a1b9dfd7a308a6f86c4b77f7fbef52aa4',1,'Tile::Tile()']]],
+  ['tile',['Tile',['../classTile.html',1,'Tile'],['../classCompressedTile.html#a690dea215c3d52f42c35c7a7d242fc52',1,'CompressedTile::tile()'],['../classTileViewState.html#a6ed489ad4c3346c14fd15d3ff46924a4',1,'TileViewState::tile()'],['../classTile.html#abc586fc35e0dbdd7be992cb6d694e263',1,'Tile::Tile()']]],
   ['tile_2ehh',['tile.hh',['../tile_8hh.html',1,'']]],
   ['tile_5floaded',['TILE_LOADED',['../tiledbitmapinterface_8hh.html#ac84d9b534c1947f639684269d09f7921a50319f02eabe9ac914a3183d86555e69',1,'tiledbitmapinterface.hh']]],
   ['tile_5fout_5fof_5fbounds',['TILE_OUT_OF_BOUNDS',['../tiledbitmapinterface_8hh.html#ac84d9b534c1947f639684269d09f7921af9af66a665a3524fc0d049fc669b2d76',1,'tiledbitmapinterface.hh']]],
