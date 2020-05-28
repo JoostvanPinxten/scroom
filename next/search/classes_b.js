@@ -10,5 +10,9 @@ var searchData=
   ['operations1bppclipped',['Operations1bppClipped',['../classOperations1bppClipped.html',1,'']]],
   ['operations24bpp',['Operations24bpp',['../classOperations24bpp.html',1,'']]],
   ['operations8bpp',['Operations8bpp',['../classOperations8bpp.html',1,'']]],
+  ['operationscmyk16',['OperationsCMYK16',['../classOperationsCMYK16.html',1,'']]],
+  ['operationscmyk32',['OperationsCMYK32',['../classOperationsCMYK32.html',1,'']]],
+  ['operationscmyk4',['OperationsCMYK4',['../classOperationsCMYK4.html',1,'']]],
+  ['operationscmyk8',['OperationsCMYK8',['../classOperationsCMYK8.html',1,'']]],
   ['operationscolormapped',['OperationsColormapped',['../classOperationsColormapped.html',1,'']]]
 ];

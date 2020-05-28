@@ -122,7 +122,11 @@ var hierarchy =
         [ "Operations1bpp", "classOperations1bpp.html", null ],
         [ "Operations1bppClipped", "classOperations1bppClipped.html", null ],
         [ "Operations24bpp", "classOperations24bpp.html", null ],
-        [ "Operations8bpp", "classOperations8bpp.html", null ]
+        [ "Operations8bpp", "classOperations8bpp.html", null ],
+        [ "OperationsCMYK16", "classOperationsCMYK16.html", null ],
+        [ "OperationsCMYK32", "classOperationsCMYK32.html", null ],
+        [ "OperationsCMYK4", "classOperationsCMYK4.html", null ],
+        [ "OperationsCMYK8", "classOperationsCMYK8.html", null ]
       ] ]
     ] ],
     [ "Scroom::Bookkeeping::Detail::LValue< V >", "classScroom_1_1Bookkeeping_1_1Detail_1_1LValue.html", null ],

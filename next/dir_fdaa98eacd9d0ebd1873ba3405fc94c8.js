@@ -27,7 +27,11 @@ var dir_fdaa98eacd9d0ebd1873ba3405fc94c8 =
       [ "Operations24bpp", "classOperations24bpp.html", "classOperations24bpp" ],
       [ "Operations", "classOperations.html", "classOperations" ],
       [ "OperationsColormapped", "classOperationsColormapped.html", "classOperationsColormapped" ],
-      [ "Operations1bppClipped", "classOperations1bppClipped.html", "classOperations1bppClipped" ]
+      [ "Operations1bppClipped", "classOperations1bppClipped.html", "classOperations1bppClipped" ],
+      [ "OperationsCMYK32", "classOperationsCMYK32.html", "classOperationsCMYK32" ],
+      [ "OperationsCMYK16", "classOperationsCMYK16.html", "classOperationsCMYK16" ],
+      [ "OperationsCMYK8", "classOperationsCMYK8.html", "classOperationsCMYK8" ],
+      [ "OperationsCMYK4", "classOperationsCMYK4.html", "classOperationsCMYK4" ]
     ] ],
     [ "linearsegment.hh", "linearsegment_8hh.html", "linearsegment_8hh" ],
     [ "memoryblobs.hh", "memoryblobs_8hh.html", "memoryblobs_8hh" ],

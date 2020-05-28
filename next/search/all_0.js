@@ -20,6 +20,7 @@ var searchData=
   ['allpages',['allPages',['../classScroom_1_1MemoryBlobs_1_1PageProvider.html#aa289e790e99b7129d997d9e88e865149',1,'Scroom::MemoryBlobs::PageProvider']]],
   ['alpha',['alpha',['../classColor.html#aa14c59ce06c2a70f4683df266e26a261',1,'Color']]],
   ['anonymous_5fnamespace_7basync_2ddeleter_2ehh_7d',['anonymous_namespace{async-deleter.hh}',['../namespaceanonymous__namespace_02async-deleter_8hh_03.html',1,'']]],
+  ['anonymous_5fnamespace_7bcmyklayeroperations_2ecc_7d',['anonymous_namespace{cmyklayeroperations.cc}',['../namespaceanonymous__namespace_02cmyklayeroperations_8cc_03.html',1,'']]],
   ['anonymous_5fnamespace_7bcolor_2ehh_7d',['anonymous_namespace{color.hh}',['../namespaceanonymous__namespace_02color_8hh_03.html',1,'']]],
   ['anonymous_5fnamespace_7blayeroperations_2ecc_7d',['anonymous_namespace{layeroperations.cc}',['../namespaceanonymous__namespace_02layeroperations_8cc_03.html',1,'']]],
   ['anonymous_5fnamespace_7bprogressbarmanager_2ecc_7d',['anonymous_namespace{progressbarmanager.cc}',['../namespaceanonymous__namespace_02progressbarmanager_8cc_03.html',1,'']]],

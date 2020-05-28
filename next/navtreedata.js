@@ -43,13 +43,13 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classColormappableMock.html#ab440d6e838c02570f8aa200ca5329e5e",
-"classPluginManager.html#a19937df67aa9811fdb257cc7e376714e",
-"classScroom_1_1GtkHelpers_1_1TakeGdkLock.html",
-"classScroom_1_1Utils_1_1ProgressStateInterfaceFromProgressInterfaceForwarder.html#a18b1b55df67acdd43113a587495e64d8",
-"classTiffPresentationWrapper.html#a8774b6d92f949c538c741dc6adc1d416",
-"classView.html#a9f6982b4763964a256c2c32745fe97a4",
-"globals_enum.html",
-"structThreadPool_1_1Job.html#a490b0df65f44d93293142ff128491764"
+"classOperationsCMYK4.html#aff65ad0278d2196c8827ec739a6e5429",
+"classScroom_1_1Detail_1_1ThreadPool_1_1FunctionMultiplier.html",
+"classScroom_1_1Utils_1_1ProgressInterfaceMultiplexer_1_1Child.html#a6f07e6a0bae6c8520c174eecf7f94be5",
+"classTiffPresentation.html#ab937be580ce0718bca735fb4067852f9",
+"classView.html#a3ab5bae0060369b9920f210931fe1d17",
+"functions_vars_j.html",
+"scroominterface_8hh_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

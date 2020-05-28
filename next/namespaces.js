@@ -1,6 +1,7 @@
 var namespaces =
 [
     [ "anonymous_namespace{async-deleter.hh}", "namespaceanonymous__namespace_02async-deleter_8hh_03.html", null ],
+    [ "anonymous_namespace{cmyklayeroperations.cc}", "namespaceanonymous__namespace_02cmyklayeroperations_8cc_03.html", null ],
     [ "anonymous_namespace{color.hh}", "namespaceanonymous__namespace_02color_8hh_03.html", null ],
     [ "anonymous_namespace{layeroperations.cc}", "namespaceanonymous__namespace_02layeroperations_8cc_03.html", null ],
     [ "anonymous_namespace{progressbarmanager.cc}", "namespaceanonymous__namespace_02progressbarmanager_8cc_03.html", null ],
